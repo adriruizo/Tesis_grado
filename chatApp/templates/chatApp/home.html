@@ -11,7 +11,7 @@
   		<div class="col-md-12">
   			<div class="card col-md-6" v-for="message in messages" v-bind:class="{ 'user-message': message.user,  'chat-message': message.chat_bot, 'offset-md-6': message.chat_bot}">
 	  			<div class="card-body">
-					  [[message.text]]
+					  [['message.text']]
 	  			</div>
 	  		</div>
   		</div>

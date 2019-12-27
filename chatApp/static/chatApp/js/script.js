@@ -40,8 +40,8 @@ window.onload = function () {
 			        referrer: 'no-referrer',
 			        })
 			        .then(response => response.json()).then((json) => {
-			          	this.messages.push(json['message'])
-			    	})
+						this.messages.push(json['message'])
+				  })
 			} else {
 				this.send_blank = true;
 				this.placeholder = "Please put in some text";

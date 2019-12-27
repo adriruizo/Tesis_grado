@@ -276,8 +276,6 @@ Para realizar el examen de Traductor, ¿cuánto debo pagar?
 Precio del examen
 Costo del examen
 Pagar por el examen
-¿Cómo lo puedo pagar?
-¿Cómo lo pago?
 ¿Si me inscribí al examen es obligatorio asistir a la charla informativa?
 ¿Debo asistir a la charla informativa para presentar el examen?
 ¿La charla informativa es obligatoria?
@@ -293,6 +291,16 @@ Costo charla informativa
 ¿Cuánto hay que pagar por la charla informativa?
 Precio charla informativa
 ¿Cuál es el precio de la charla informativa?
+¿Para asistir a la charla informativa es necesario realizar la inscripción en el sistema?
+¿Debo realizar la inscripción en el sistema para asistir a la charla informativa?
+¿Puedo asistir a la charla informativa sin inscribirme?
+Si quiero asistir a la charla informativa antes de inscribirme ¿puedo hacerlo?
+¿La charla informativa es sólo para las personas inscritas?
+¿A la charla informativa se puede asistir sin inscripción previa?
+Charla sin inscripción
+Charla informativa sin inscripción
+¿Sin realizar la inscripción en el sistema es posible asistir a la charla de información?
+Quiero saber cómo funciona el examen de traductor, ¿puedo ir a la charla informativa sin inscribirme?
 ¿Qué es una interpretación alterna?
 ¿Qué significa interpretación alterna?
 ¿A qué se refiere con interpretación alterna?
@@ -351,16 +359,6 @@ Inscripciones al año
 ¿En qué tiempo son las inscripciones para la prueba?
 Fechas de inscripciones al examen
 ¿En qué tiempo?
-¿Para asistir a la charla informativa es necesario realizar la inscripción en el sistema?
-¿Debo realizar la inscripción en el sistema para asistir a la charla informativa?
-¿Puedo asistir a la charla informativa sin inscribirme?
-Si quiero asistir a la charla informativa antes de inscribirme ¿puedo hacerlo?
-¿La charla informativa es sólo para las personas inscritas?
-¿A la charla informativa se puede asistir sin inscripción previa?
-Charla sin inscripción
-Charla informativa sin inscripción
-¿Sin realizar la inscripción en el sistema es posible asistir a la charla de información?
-Quiero saber cómo funciona el examen de traductor, ¿puedo ir a la charla informativa sin inscribirme?
 Sobre los recursos y páginas web que se pueden utilizar durante el desarrollo del examen ¿tienen alguna lista o sugerencias que puedan compartir?
 ¿Qué tipo de recursos?
 ¿Pueden compartir los recursos y paginas web que se pueden utilizar durante el desarrollo del examen?
@@ -380,6 +378,8 @@ Ayudas durante el examen
 Tipos de recursos durante la prueba
 Tipos de materiales durante el examen
 Materiales durante el examen
+¿Cómo lo puedo pagar?
+¿Cómo lo pago?
 ¿Se debe pagar de contado?
 ¿Puedo pagar de contado?
 ¿El examen debe pagarse de contado?
@@ -433,6 +433,7 @@ Puntaje de aprobación
 Nota de aprobación
 Aprobación del examen
 ¿Si no puedo asistir me devuelven el dinero?
+No puedo asistir al examen.
 En caso de tener algún inconveniente para presentar el examen ¿me devuelven el dinero?
 ¿Hay devolución de dinero?
 ¿Se puede solicitar la devolución del dinero?
@@ -506,9 +507,25 @@ No es coherente.
 No tiene lógica.
 No debería de ser así.
 ¿Cuántas preguntas tiene el examen?
-¿De qué tema son los audios?
-¿De qué tratan los audios del examen?
 ¿De cuántas preguntas está compuesto el examen?
+¿El examen cuántas preguntas contiene?
+¿Cuál es el número de preguntas del examen?
+Cantidad de preguntas del examen.
+¿De qué tratan los audios del examen?
+¿De qué tema son los audios?
+¿Los audios del examen de qué tratan?
+¿A qué hacen referencia los audios del examen?
+Tema de los audios.
+¿De qué tratan las preguntas del examen?
+¿De qué tema son las preguntas?
+¿Las preguntas del examen de qué tratan?
+¿A qué hacen referencia las preguntas del examen?
+Tema de las preguntas.
+¿Dónde se consigue el formato de consignación para hacer el pago?
+¿Dónde está el formato de consignación?
+¿De dónde imprimo el formato de consignación?
+Necesito imprimir el formato de consignación.
+Formato de consignación.
 Genial.
 Me parece bien.
 Ok.
@@ -540,6 +557,7 @@ Llamaré.
 Me comunicaré.
 Emm.
 Listo.
+Que bien.
 Si por favor.
 Sí por favor.
 Gracias por su información.
@@ -548,3 +566,10 @@ Gracias.
 Muchas gracias.
 Es muy amable.
 Muy gentil.
+Hola.
+Buenos días.
+Buenas tardes.
+Buenas noches.
+Saludo.
+Saludos.
+Buenas.
